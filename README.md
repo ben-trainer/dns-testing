@@ -1,4 +1,4 @@
-# dns-testing
+# DNS-Testing
 
 <p align="center">
 <img src="https://i.imgur.com/MwrkwEQ.png" alt="DNS Photo"/>
