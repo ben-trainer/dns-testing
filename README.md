@@ -4,7 +4,8 @@
 <img src="https://i.imgur.com/MwrkwEQ.png" alt="DNS Photo"/>
 </p>
 
-<h1>Domain Name System Testing </h1>
+<h1> Domain Name System Testing </h1>
+
 - Inspect DNS A-records on the server 
 - Create some of my own A-Records on the server and observe them from the client
 - Delete records from the server and inspect/clear the client DNS cache to gain understanding
