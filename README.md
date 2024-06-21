@@ -24,6 +24,10 @@
 - Windows Server 2022
 - Windows 10 Pro (22H2)
 
+<h2>Prerequisites</h2>
+
+ - [Installing and Configuring Active Directory in Azure](https://github.com/ben-trainer/Azure-Active-Directory-Home-Lab)
+
 <h2>DNS Configuration Steps</h2>
 <p>
 Remote Connect to both of our VMs made from the previous Active Directory lab. 
